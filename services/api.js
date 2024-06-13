@@ -1,4 +1,4 @@
-const BASE_URL = '###'; 
+const BASE_URL = 'https://service-be-bukitvista-6lbl6hnqrq-et.a.run.app'; 
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
